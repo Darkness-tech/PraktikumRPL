@@ -29,6 +29,7 @@ body{
     height: 50px;
     position: absolute;
     bottom: 0;
+    line-height: 50px;
     background-color: coral;
     text-align: center;
     color: black;
